@@ -1,5 +1,5 @@
 # Radiology expertise exploration 
-Extarct radiologist speciality features for future predictive modelling
+Extarct radiologist speciality features by the EM algorithm for future predictive modelling
 
 ## Background/Context
 
