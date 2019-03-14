@@ -1,5 +1,9 @@
 # Radiology expertise exploration 
-Extarct radiologist speciality features for future predictive modelling
+Extarct radiologist speciality features by the EM algorithm for future predictive modelling
+
+## Setup and execution
+Please see setup.md and API folder
+
 
 ## Background/Context
 
@@ -96,6 +100,10 @@ to characterize radiology physicians with respect to these specialties.
 Construct a tool that
 (a) runs my analysis, and (b) makes the key analysis outputs readily
 available as inputs for generic downstream processes.
+
+## Results and insights
+
+Please see pdf Report.
 
 
 ### Warnings
