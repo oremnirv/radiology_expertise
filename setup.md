@@ -1,4 +1,4 @@
-# Spreemo health challenge
+# Radiology expertise exploration
 
 Extarct radiologist speciality features for future predictive modelling
 
@@ -16,7 +16,6 @@ git clone current-repository
 Start by running the shell script
 
 ```
-cd spreemo
 ./setup_env.sh
 ```
 
@@ -59,11 +58,10 @@ pip install scikit-learn==0.19.2
 Once the enviornment is set, from the command line do:
 
 ```
-cd ds-omer_nivron_0
 python3 main.py
 ```
 
-Note that the running time is aprox. 1 hr: 30 min for filtering and 20
+Note that the running time is aprox. 1 hr 30 min for filtering and 20
 min for the EM algorithm training.
 
 ## Output
