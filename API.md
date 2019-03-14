@@ -1,9 +1,8 @@
-# Spreemo health API interface
+# Physician expertise API interface
 
-Query the spreemo module to get features and analyse
+Query the module to get features and analyse
 
 ## Getting Started
-
 
 First, follow the setup.md file instructions.
 
@@ -20,8 +19,6 @@ Get full information on all clusters
 ```
 
 We give an example hereunder how to query each of the requests
-
-
 
 ### All features with npi's
 
@@ -51,7 +48,6 @@ Output:
 ...
 
 ```
-
 
 ## Physician specialities
 
