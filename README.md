@@ -1,6 +1,10 @@
 # Radiology expertise exploration 
 Extarct radiologist speciality features by the EM algorithm for future predictive modelling
 
+## Setup and execution
+Please see setup.md and API folder
+
+
 ## Background/Context
 
 Radiology practice patterns -- physician caseloads and utilization with
