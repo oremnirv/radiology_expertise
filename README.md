@@ -97,6 +97,10 @@ Construct a tool that
 (a) runs my analysis, and (b) makes the key analysis outputs readily
 available as inputs for generic downstream processes.
 
+## Results and insights
+
+Please see pdf Report.
+
 
 ### Warnings
 
