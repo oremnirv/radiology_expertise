@@ -58,7 +58,7 @@ pip install scikit-learn==0.19.2
 Once the enviornment is set, from the command line do:
 
 ```
-python3 main.py
+python3 central.py
 ```
 
 Note that the running time is aprox. 1 hr 30 min for filtering and 20
