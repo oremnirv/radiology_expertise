@@ -3,6 +3,8 @@ Extarct radiologist speciality features by the EM algorithm for future predictiv
 
 ## Setup and execution
 Please see setup.md and API folder
+*** Note that you will have to download the Medicare2016Filtered table (see below) and change the central.py file 
+*** in order to load and filter it.
 
 
 ## Background/Context
@@ -94,7 +96,7 @@ For example:
 ## Goal
 
 Define, on the basis of the data, what specializations are and subsequently,
-to characterize radiology physicians with respect to these specialties.
+characterize radiology physicians with respect to these specialties.
 
 
 Construct a tool that
